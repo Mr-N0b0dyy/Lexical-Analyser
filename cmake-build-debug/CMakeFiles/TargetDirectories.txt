@@ -1,0 +1,3 @@
+C:/Users/darkd/OneDrive/Masaüstü/LexicalAnalyzer/cmake-build-debug/CMakeFiles/LexicalAnalyzer.dir
+C:/Users/darkd/OneDrive/Masaüstü/LexicalAnalyzer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/darkd/OneDrive/Masaüstü/LexicalAnalyzer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

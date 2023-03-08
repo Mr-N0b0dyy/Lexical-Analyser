@@ -1,0 +1,8 @@
+int sayi;
+
+print("sayıyı giriniz : ");
+sayi := record;
+
+if(sayi // 0){
+    print("sayi sıfırdan buyuk");
+    }
